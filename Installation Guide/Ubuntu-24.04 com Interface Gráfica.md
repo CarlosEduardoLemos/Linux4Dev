@@ -50,8 +50,6 @@
    **Por que executar esses comandos?**  
    O comando `apt update` atualiza a lista de pacotes disponíveis para garantir que você esteja instalando as versões mais recentes. Em seguida, `apt install ubuntu-desktop -y` instala o ambiente gráfico XFCE, que oferece uma interface gráfica amigável para o Ubuntu dentro do WSL. O `xrdp` permite que você faça conexão remota com esse ambiente gráfico. Para quem está iniciando, isso é importante porque você poderá interagir com o Ubuntu usando uma interface visual, em vez de apenas a linha de comando.
 
----
-
 8. **Iniciar o serviço XRDP:**
    Inicie o servidor XRDP com o comando:
    ```bash
@@ -89,8 +87,4 @@
    **Por que executar este comando?**  
    Se você não precisar mais da conexão remota ou quiser liberar recursos, pode parar o serviço XRDP com esse comando.
 
----
-
-Essa seção explica como acessar a interface gráfica remotamente, usando o IP da máquina Ubuntu e o aplicativo padrão de Conexão de Área de Trabalho Remota do Windows. Se precisar de mais ajustes, estou à disposição!
-
-Agora, com todas essas explicações, o processo fica mais claro para quem está iniciando. Se quiser mais detalhes ou tiver dúvidas, estou à disposição!
+Agora o Ubuntu-24.04 está configurado com uma interface gráfica e pronto para conexões remotas via XRDP.
