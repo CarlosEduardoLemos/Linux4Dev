@@ -50,8 +50,6 @@
    **Por que executar esses comandos?**  
    O comando `apt update` atualiza a lista de pacotes disponíveis para garantir que você esteja instalando as versões mais recentes. Em seguida, `apt install ubuntu-desktop -y` instala o ambiente gráfico XFCE, que oferece uma interface gráfica amigável para o Ubuntu dentro do WSL. O `xrdp` permite que você faça conexão remota com esse ambiente gráfico. Para quem está iniciando, isso é importante porque você poderá interagir com o Ubuntu usando uma interface visual, em vez de apenas a linha de comando.
 
-Vou adicionar o subtópico sobre como acessar o Ubuntu remotamente entre as etapas 8 e 9:
-
 ---
 
 8. **Iniciar o serviço XRDP:**
