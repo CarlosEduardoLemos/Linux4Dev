@@ -71,10 +71,10 @@
 
 ---
 
-**Acessar remotamente o Ubuntu via RDP:**
+**Acessar remotamente o Kali Linux via RDP:**
 
-1. **Verificar o IP da máquina Ubuntu no WSL:**
-   Antes de acessar remotamente, você precisa do endereço IP da máquina Ubuntu rodando no WSL. Para verificar, digite o comando:
+1. **Verificar o IP da máquina Kali Linux no WSL:**
+   Antes de acessar remotamente, você precisa do endereço IP da máquina Kali Linux rodando no WSL. Para verificar, digite o comando:
    ```bash
    ifconfig
    ```
