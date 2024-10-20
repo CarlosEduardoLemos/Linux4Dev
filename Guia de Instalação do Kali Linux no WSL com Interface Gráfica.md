@@ -1,0 +1,50 @@
+1. **Listar distribuições do WSL disponíveis para instalação:**
+   ```bash
+   wsl --list --online
+   ```
+
+2. **Instalar a distribuição Kali Linux:**
+   ```bash
+   wsl --install -d kali-linux
+   ```
+
+3. **Reinicie a sua máquina.**
+
+4. **Iniciar o Kali Linux:**
+   Após o reinício, inicie o Kali digitando:
+   ```bash
+   kali
+   ```
+
+5. **Criar um login e senha:**
+   Durante o primeiro acesso, será solicitado que você crie um nome de usuário e uma senha. Exemplo:
+   - Nome de usuário: `kali`
+   - Senha: `kali`
+
+6. **Acessar o modo superusuário:**
+   Para obter privilégios administrativos, digite:
+   ```bash
+   sudo su
+   ```
+
+7. **Instalar o ambiente de desktop XFCE e o XRDP:**
+   Execute os comandos abaixo para instalar o XFCE (ambiente gráfico) e o XRDP (servidor de desktop remoto):
+   ```bash
+   apt update
+   apt install kali-desktop-xfce -y
+   apt install xrdp -y
+   ```
+
+8. **Instalar ferramentas web do Kali Linux:**
+Após configurar o ambiente gráfico, você pode instalar ferramentas específicas para testes e análises web com o seguinte comando:
+```bash
+apt install kali-tools-web -y
+```
+
+9. **Iniciar o serviço XRDP:**
+   Inicie o servidor XRDP com o comando:
+   ```bash
+   sudo service xrdp start
+   ```
+
+Agora o Kali Linux está configurado com uma interface gráfica e pronto para conexões remotas via XRDP.
