@@ -1,0 +1,2 @@
+https://learn.microsoft.com/pt-br/windows/wsl/
+https://learn.microsoft.com/pt-br/windows/wsl/install
