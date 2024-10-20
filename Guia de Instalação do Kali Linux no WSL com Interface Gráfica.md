@@ -36,10 +36,10 @@
    ```
 
 8. **Instalar ferramentas web do Kali Linux:**
-Após configurar o ambiente gráfico, você pode instalar ferramentas específicas para testes e análises web com o seguinte comando:
-```bash
-apt install kali-tools-web -y
-```
+   Após configurar o ambiente gráfico, você pode instalar ferramentas específicas para testes e análises web com o seguinte comando:
+   ```bash
+   apt install kali-tools-web -y
+   ```
 
 9. **Iniciar o serviço XRDP:**
    Inicie o servidor XRDP com o comando:
