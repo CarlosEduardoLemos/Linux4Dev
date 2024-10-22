@@ -51,6 +51,7 @@
 
 7. **Instalar o ambiente de desktop XFCE e o XRDP:**
    Execute os comandos abaixo para instalar o XFCE (ambiente gráfico) e o XRDP (servidor de desktop remoto):
+   OBSERVAÇÃO:. A parte gráfica é opcional
    ```bash
    apt update
    apt install kali-desktop-xfce -y

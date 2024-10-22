@@ -18,5 +18,5 @@ Para profissionais que trabalham com desenvolvimento de software, DevOps, segura
 
 Se você deseja configurar uma distribuição Linux no WSL com interface gráfica, consulte os guias abaixo para o passo a passo detalhado:
 
-- **[Guia de Instalação do Kali Linux no WSL com Interface Gráfica](/WSL/Installation%20Guide/Kali%20Linux%20com%20Interface%20Gráfica.md)**
-- **[Guia de Instalação do Ubuntu 24.04 no WSL com Interface Gráfica](/WSL/Installation%20Guide/Ubuntu-24.04%20com%20Interface%20Gráfica.md)**
+- **[Guia de Instalação do Kali Linux no WSL](/WSL/Installation%20Guide/Kali%20Linux%20com%20Interface%20Gráfica.md)**
+- **[Guia de Instalação do Ubuntu 24.04 no WSL](/WSL/Installation%20Guide/Ubuntu-24.04%20com%20Interface%20Gráfica.md)**
