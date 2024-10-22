@@ -33,6 +33,14 @@ Seu modelo de desenvolvimento aberto, apoiado por uma vasta comunidade e grandes
 
 O Linux transformou o mundo da computação ao promover o conceito de código aberto e oferecer uma alternativa poderosa, gratuita e colaborativa aos sistemas operacionais proprietários. De uma criação humilde por um estudante universitário, o Linux se tornou um dos pilares da infraestrutura digital moderna, influenciando a forma como desenvolvemos, distribuímos e utilizamos a tecnologia.
 
+## Sobre o Repositório
+
+Este repositório contém um guia detalhado sobre Linux e WSL (Windows Subsystem for Linux), incluindo a instalação e o uso de comandos básicos de Linux. Os arquivos estão organizados em pastas, facilitando o acesso a diferentes tópicos de forma estruturada.
+
+### Conteúdo:
+- **Guia de Instalação do WSL**: Passo a passo para configurar o WSL no Windows.
+- **Comandos Básicos de Linux**: Uma coleção de comandos essenciais para uso no Linux, disponíveis dentro das pastas organizadas por categorias.
+
 ### Benefícios do Linux:
 - Código aberto
 - Alta personalização
