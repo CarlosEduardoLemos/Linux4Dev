@@ -1,14 +1,5 @@
 # Linux & WSL Guide
 
-Este repositório contém informações úteis sobre o **Linux**, seus comandos básicos e um guia detalhado para habilitar o **WSL (Windows Subsystem for Linux)** em sistemas Windows. O conteúdo está organizado em pastas para facilitar o acesso.
-
-## Sumário
-- [Sobre o Linux](#sobre-o-linux)
-- [Contribuições](#contribuições)
-- [Licença](#licença)
-
----
-
 ## Sobre o Linux
 **A História do Linux**
 
