@@ -15,3 +15,8 @@ Aqui estão alguns motivos para investir em aprender e entender os comandos do L
 - **Desenvolvimento de Habilidades Técnicas:** Conhecer os comandos e suas funcionalidades fortalece a base técnica, facilitando a resolução de problemas e o aprendizado de novas ferramentas.
 
 Explore os arquivos desta pasta e pratique os comandos para aumentar sua familiaridade com o Linux e suas funcionalidades poderosas.
+
+### Conteúdo:
+- [**Linux System Information**](/Linux-basics-comands/Basics-Comands/LinuxSystemInformation.md)
+- [**Shell Scripting Basics Cheat Sheet**](/Linux-basics-comands/Basics-Comands/ShellScriptingBasicsCheatSheet.md)
+- [**Text Processing Commands Cheat Sheet**](/Linux-basics-comands/Basics-Comands/TextProcessingCommandsCheatSheet.md)
