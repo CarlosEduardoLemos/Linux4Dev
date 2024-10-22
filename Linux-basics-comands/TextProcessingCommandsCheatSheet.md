@@ -1,4 +1,4 @@
-**Text Processing Commands Cheat Sheet - @csaba_kissi**
+**Text Processing Commands Cheat Sheet**
 
 ### 1. Search for a pattern in a file
 ```bash

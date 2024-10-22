@@ -1,4 +1,4 @@
-**Shell Scripting Basics Cheat Sheet - @csaba_kissi**
+**Shell Scripting Basics Cheat Sheet**
 
 ### 1. Define a shebang (specify the interpreter)
 ```bash
