@@ -5,7 +5,7 @@
 Este repositório contém um guia detalhado sobre Linux e WSL (Windows Subsystem for Linux), incluindo a instalação e o uso de comandos básicos de Linux. Os arquivos estão organizados em pastas, facilitando o acesso a diferentes tópicos de forma estruturada.
 
 ### Conteúdo:
-- (**Guia de Instalação do WSL**)(/WSL/README.md): Passo a passo para configurar o WSL no Windows.
+- [**Guia de Instalação do WSL**](/WSL/README.md): Passo a passo para configurar o WSL no Windows.
 - [**Comandos Básicos de Linux**](/Linux-basics-comands/README.md): Uma coleção de comandos essenciais para uso no Linux, disponíveis dentro das pastas organizadas por categorias.
 
 ## Sobre o Linux
