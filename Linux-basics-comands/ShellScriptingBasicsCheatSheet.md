@@ -130,5 +130,3 @@ echo "Append to file" >> output.txt
 command1 && command2 # Executes command2 only if command1 succeeds
 command1 || command2 # Executes command2 only if command1 fails
 ``` 
-
----
