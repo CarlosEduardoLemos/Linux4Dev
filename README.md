@@ -1,22 +1,27 @@
-# Windows Subsystem for Linux (WSL)
+# Linux & WSL Guide
 
-O **Windows Subsystem for Linux (WSL)** é uma funcionalidade inovadora do Windows que permite executar distribuições Linux diretamente no sistema, sem a necessidade de uma máquina virtual separada ou configuração de dual boot. Criado para integrar o ecossistema Windows com o ambiente GNU/Linux, o WSL é amplamente utilizado por desenvolvedores e profissionais de TI que precisam de uma experiência fluida ao trabalhar com os dois sistemas operacionais.
+Este repositório contém informações úteis sobre o **Linux**, seus comandos básicos e um guia detalhado para habilitar o **WSL (Windows Subsystem for Linux)** em sistemas Windows. O conteúdo está organizado em pastas para facilitar o acesso.
 
-### A evolução e importância do WSL
+## Sumário
+- [Sobre o Linux](#sobre-o-linux)
+- [Contribuições](#contribuições)
+- [Licença](#licença)
 
-Lançado inicialmente em 2016, o WSL permitiu aos desenvolvedores acessar ferramentas Linux diretamente no Windows. Com a evolução para o **WSL 2**, que introduziu um kernel Linux completo em uma máquina virtual leve, houve uma melhoria significativa no desempenho e na compatibilidade de sistemas de arquivos e chamadas de sistema. Isso trouxe suporte para uma ampla gama de aplicativos gráficos e ferramentas de desenvolvimento, aumentando a produtividade sem a sobrecarga de VMs tradicionais.
+---
 
-Entre as principais vantagens do WSL estão:
-- Execução de distribuições Linux populares como Ubuntu, Debian e Kali.
-- Suporte completo a ferramentas de linha de comando e a possibilidade de rodar aplicações gráficas diretamente no Windows.
-- Maior desempenho no sistema de arquivos, principalmente com o WSL 2, e total compatibilidade de chamadas de sistema.
-- Facilidade de alternância entre WSL 1 e WSL 2, permitindo usar a melhor opção para o seu cenário.
+## Sobre o Linux
+O **Linux** é um sistema operacional de código aberto amplamente utilizado por desenvolvedores, empresas e usuários comuns em todo o mundo. Ele oferece uma vasta gama de distribuições e é conhecido por sua robustez, segurança e flexibilidade. 
 
-Para profissionais que trabalham com desenvolvimento de software, DevOps, segurança cibernética ou análises de dados, o WSL oferece um ambiente robusto, que pode ser ajustado para suportar múltiplas distribuições Linux e acessar recursos do Windows como a aceleração por GPU, ideal para tarefas de aprendizado de máquina e processamento pesado.
+O Linux permite controle total sobre o sistema, especialmente para aqueles que trabalham com desenvolvimento, administração de sistemas e segurança da informação.
 
-### Guias de Instalação
+### Benefícios do Linux:
+- Código aberto
+- Alta personalização
+- Estabilidade e segurança
+- Grande comunidade de suporte
 
-Se você deseja configurar uma distribuição Linux no WSL com interface gráfica, consulte os guias abaixo para o passo a passo detalhado:
+## Contribuições
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias, novos comandos ou correções.
 
-- **[Guia de Instalação do Kali Linux no WSL com Interface Gráfica](/Installation%20Guide/Kali%20Linux%20com%20Interface%20Gráfica.md)**
-- **[Guia de Instalação do Ubuntu 24.04 no WSL com Interface Gráfica](/Installation%20Guide/Ubuntu-24.04%20com%20Interface%20Gráfica.md)**
+## Licença
+Este projeto está licenciado sob a [MIT License](LICENSE).
